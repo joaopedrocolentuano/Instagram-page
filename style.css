@@ -23,8 +23,8 @@ body {
     justify-content: start;
     width: 60%;
     height: 100vh;
-}
 
+}
 .instagram-phone {
     display: flex;
     align-items: center;
@@ -68,13 +68,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
     overflow: hidden;
+    border-radius: 50%;
 }
 
 .profile-photo img {
     height: 6rem;
-}6
+}
+
 .instagram-login {
     background-color: #0095f6;
     color: #ffffff;
